@@ -1,6 +1,6 @@
 numpy>=1.16
-pandas=>0.24
-pytest=>4.5
+pandas>=0.24
+pytest>=4.5
 scikit-learn>=0.21
 seaborn>=0.9
 notebook>=5.7
