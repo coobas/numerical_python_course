@@ -2,3 +2,6 @@ lecture_notes.cz/.ipynb_checkpoints
 lecture_notes.cz/__pycache__
 lecture_notes.en/.ipynb_checkpoints
 lecture_notes.en/__pycache__
+lecture_notes.cz/my_tasks.py
+lecture_notes.cz/parallel_functions.c
+lecture_notes.cz/parallel_functions.pyx
