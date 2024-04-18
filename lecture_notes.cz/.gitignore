@@ -5,4 +5,12 @@ ascii_data_1.txt
 ascii_data_1_new.npy
 ascii_data_1_new.txt
 totojemodul.py
+cyfuncs*
+filename*
+pairwise_fort*
+pstats
+# This is created only as an example, this packgage is not meant to be installed
+setup.py 
+test_hdf5.h5
+
 
