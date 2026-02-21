@@ -10,7 +10,9 @@ filename*
 pairwise_fort*
 pstats
 # This is created only as an example, this packgage is not meant to be installed
-setup.py 
+setup.py
 test_hdf5.h5
-
-
+gas_lasers.csv
+my_tasks.py
+parallel_functions.c
+parallel_functions.pyx
